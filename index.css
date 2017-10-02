@@ -1,0 +1,14 @@
+/** {*/
+/*    color: red;*/
+/*}*/
+
+/*#welcome {*/
+/*    color: green;*/
+/*}*/
+
+/*.selected {*/
+/*    color: blue;*/
+/*}*/
+div + p{
+    color: red;
+}
